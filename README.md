@@ -1,5 +1,5 @@
 <h1 align="center">WPConstructor Simple Maintenance Page</h1>
-<p align="center"><img src="https://wpconstructor.com/assets/images/logos/repoluxe/wpconstructor-simple-maintenance-page.png" alt="Siple Maintenance Page Logo" width="400"></p>
+<p align="center"><img src="https://wpconstructor.com/assets/images/logos/github/wpconstructor-simple-maintenance-page.png" alt="Simple Maintenance Page Logo" width="400"></p>
 
 A simple WordPress plugin that displays a maintenance page to non-administrators when maintenance mode is enabled.
 
